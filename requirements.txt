@@ -1,0 +1,10 @@
+werkzeug
+SQLAlchemy
+wsgilog
+cython==0.20
+pymysql
+munkres
+parsedatetime
+argparse
+numpy
+pillow
